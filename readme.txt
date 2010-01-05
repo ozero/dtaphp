@@ -1,0 +1,1 @@
+access index.php on http server
